@@ -1,88 +1,110 @@
-# DevMagic Portfolio 🚀
+# DevMagic 🚀  
+### Frontend Engineer • React Specialist • UI Systems Builder  
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-
-Welcome to my professional frontend developer portfolio! This project showcases my expertise in building responsive, high-performance web applications with modern React ecosystem technologies.
-
-👉 **Live Demo**: [https://codewithdev.netlify.app](https://codewithdev.netlify.app)
-
-## ✨ Key Features
-
-- **Responsive Design**: Flawless experience across all devices
-- **Theme Switching**: Dark/Light mode with persistent preference
-- **Performance Optimized**: 95+ Lighthouse scores
-- **Animations**: GSAP & Framer Motion for smooth interactions
-- **Multilingual**: English/Urdu language support
-- **Interactive Components**: Custom form validation & UI elements
-
-## 🛠 Tech Stack
-
-**Core:**
-- React 18 + TypeScript
-- Vite (Build Tool)
-- Tailwind CSS (Styling)
-- Zustand (State Management)
-
-**Animation & UI:**
-- Framer Motion
-- GSAP
-- React Icons
-- React Hot Toast (Notifications)
-
-**Fonts:**
-- Montserrat
-- Poppins
-- Roboto
-
-## 💻 My Profile
-
-**DevMagic | Frontend Developer (React Specialist)**  
-📍 Mirpur Azad Kashmir, Pakistan  
-
-**Core Skills:**  
-- **Languages**:  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> JavaScript • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> TypeScript • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"> HTML5 • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"> CSS3 • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python
-
-- **Frontend**:  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"> Redux • 
-  ⚛️ Context API
-
-- **Styling**:  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="20" height="20"> Tailwind CSS • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"> Bootstrap • 
-  🧩 CSS Modules
-
-- **Tools**:  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"> Git • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"> GitHub • 
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="20" height="20"> Vite • 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="20" height="20"> Webpack
-
-- **Testing**:  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="20" height="20"> Jest • 
-  🧪 React Testing Library
-
-**Connect with me:**  
-📧 Email: [devmagic313@gmail.com](mailto:devmagic313@gmail.com)  
-💼 Portfolio: [https://codewithdev.netlify.app](https://codewithdev.netlify.app)  
-👨‍💻 HackerRank: [https://www.hackerrank.com/profile/ghulamhussain621](https://www.hackerrank.com/profile/ghulamhussain621)  
-📱 TikTok: [@devmagic313](https://www.tiktok.com/@devmagic313)  
-📸 Instagram: [@devmagic313](https://www.instagram.com/devmagic313/)
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss proposed changes.
-
-## 📄 License
-All Rights Reserved © DevMagic 2025
+[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)](https://github.com/pmndrs/zustand)
 
 ---
 
-**Crafted with ❤️ DevMagic**
+## 👨‍💻 About Me
+
+I build modern, high-performance frontend systems using the **React ecosystem**.
+
+My focus is not just building websites —  
+I build **scalable UI architectures**, polished animation systems, and production-ready applications.
+
+Currently focused on:
+
+- ⚛️ Advanced React + TypeScript patterns  
+- 🎨 Modern UI systems (Tailwind + Design Architecture)  
+- 🚀 Performance optimization (Lighthouse 95+)  
+- 🧠 AI-powered product development  
+- 📦 Portfolio-level production engineering  
+
+---
+
+## 🏗 Current Main Project
+
+### 🔥 DevMagic Portfolio 2026
+
+A production-level animated portfolio built with:
+
+- React 18 + TypeScript  
+- Tailwind CSS (Custom Theme System)  
+- Framer Motion + GSAP  
+- Zustand state management  
+- Multi-theme architecture (4 combinations)  
+- Interactive Resume + PDF system  
+- WhatsApp-integrated pricing flow  
+- Performance optimized & SEO ready  
+
+👉 **Live:** https://codewithdev.netlify.app  
+👉 **Repo:** https://github.com/DevMagic313/Portfolio2026  
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### State & Architecture
+- Zustand
+- Context API
+- Clean modular folder structure
+- Reusable component systems
+
+### Animation & UX
+- Framer Motion
+- GSAP
+- Micro-interactions
+- Scroll-triggered animations
+
+### Backend & Data (Learning & Projects)
+- Node.js
+- Firebase
+- MongoDB
+- PHP (basic)
+
+---
+
+## 🎯 What I Care About
+
+- Clean architecture
+- Scalable folder structure
+- Type safety
+- UX polish
+- Real-world client projects
+- Turning portfolios into products
+
+---
+
+## 📈 2026 Goals
+
+- Build AI-powered SaaS product
+- Launch premium UI template
+- Improve system design skills
+- Contribute to open-source
+- Secure international frontend role
+
+---
+
+## 📬 Connect With Me
+
+📧 Email: devmagic313@gmail.com  
+🌐 Portfolio: https://codewithdev.netlify.app  
+💻 GitHub: https://github.com/DevMagic313  
+👨‍💻 HackerRank: https://www.hackerrank.com/profile/ghulamhussain621  
+📱 TikTok: https://tiktok.com/@devmagic313  
+📸 Instagram: https://instagram.com/devmagic313  
+
+---
+
+⭐ *Always building. Always improving.*
