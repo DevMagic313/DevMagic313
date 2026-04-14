@@ -19,7 +19,7 @@ My focus is not just writing code — I craft **scalable UI architectures**, smo
 - 🎨 Passionate about **UI/UX polish**, clean code & component architecture
 - 💼 Open to **freelance projects** & **international opportunities**
 - 🏆 **HackerRank Certified** × 3 (JavaScript, React, Problem Solving)
-- 🌐 Portfolio: [codewithgh.vercel.app](https://codewithgh.vercel.app)
+- 🌐 Portfolio: [ghulamhussain.me](https://ghulamhussain.me)
 
 ---
 
